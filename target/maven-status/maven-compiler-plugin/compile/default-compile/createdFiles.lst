@@ -1,0 +1,7 @@
+stepDefinitions\weatherForecast_steps.class
+dto\DailyForecast.class
+weatherBit\Weather.class
+context\ConfigManager.class
+context\Context.class
+context\ContextManager.class
+utilities\CommonFunctions.class
